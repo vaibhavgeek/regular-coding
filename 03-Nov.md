@@ -17,3 +17,18 @@ impl Solution {
     }
 }
 ```
+### Best time to buy and sell stock 
+```
+impl Solution {
+    pub fn max_profit(prices: Vec<i32>) -> i32 {
+        use std::cmp::{min, max};
+        let mut mx = 0;
+        let mut b = std::i32::MAX;
+        for value in prices.iter() {
+            mx = max(mx, value - b);
+            b = min(b, *value);
+        }
+        mx
+    }
+}
+```
