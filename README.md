@@ -11,11 +11,11 @@ it or not or it falls above my level of understanding. I will also mention if th
 
 ## Array
 
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/) [ 3rd November ] 
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [ 3rd November ] 
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) [ 3rd November ] 
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) [ 3rd November ] 
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [ 3rd November ] 
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) [ 3rd November ] 
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [ 3rd November ] 
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) [ 3rd November ] 
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) [ 3rd November ] 
+- [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [ 3rd November ] 
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
