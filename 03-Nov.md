@@ -32,3 +32,24 @@ impl Solution {
     }
 }
 ```
+
+### Contains Duplicate 
+```
+use std::collections::HashMap;
+
+impl Solution {
+    pub fn contains_duplicate(nums: Vec<i32>) -> bool {
+         let mut map = HashMap::with_capacity(nums.len());
+          for(index , num) in nums.into_iter().enumerate(){
+               if map.contains_key(&num) {
+                return true;
+            }
+            else {
+                map.insert(num, 1);
+            }
+          }
+            return false;
+           unreachable!();
+    }
+}
+```
